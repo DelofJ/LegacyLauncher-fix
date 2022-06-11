@@ -24,9 +24,10 @@
 		{
 			"downloads": {
 				"artifact": {
-					"sha1": "50ca075cbab548d6940e2b3bc88774c7f99bd57e",
-					"size": 37606,
-					"url": "https://github.com/DelofJ/LegacyLauncher/releases/download/v1.12.1/launchwrapper-1.12.jar"
+					"path": "net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar",
+					"sha1": "f10673e02551918883e1e05e1f21b1f580970b9e",
+					"size": 37580,
+					"url": "https://github.com/DelofJ/LegacyLauncher/releases/download/v1.12.2/launchwrapper-1.12.jar"
 				}
 			},
 			"name": "net.minecraft:launchwrapper:1.12"
